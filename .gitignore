@@ -1,0 +1,12 @@
+.env
+CLAUDE.md
+data/candidate_profile.json
+data/base_resume.json
+data/jobs.db
+data/outputs/
+data/calibration/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
